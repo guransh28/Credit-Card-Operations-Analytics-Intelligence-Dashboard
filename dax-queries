@@ -12,7 +12,6 @@ AgeGroup = SWITCH(
  "unknown"
 )
 
-
 IncomeGroup = SWITCH(
  TRUE(),
  'public cust_detail'[income] < 35000, "Low",
@@ -40,3 +39,6 @@ Previous_week_Reveneue = CALCULATE(
  ALL('public cc_detail'),
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1
 ))
+
+
+
