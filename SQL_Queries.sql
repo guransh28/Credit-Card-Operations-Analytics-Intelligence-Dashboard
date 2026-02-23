@@ -1,4 +1,3 @@
--- SQL queries for setting up and managing credit card data in MySQL
 
 CREATE DATABASE ccdb;
 
