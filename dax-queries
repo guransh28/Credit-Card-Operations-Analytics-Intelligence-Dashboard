@@ -1,5 +1,6 @@
 # DAX Queries
 
+
 ## Age Group
 ```dax
 AgeGroup = SWITCH(
@@ -20,9 +21,7 @@ IncomeGroup = SWITCH(
  "unknown"
 )
 
-
 week_num2 = WEEKNUM('public cc_detail'[week_start_date])
-
 
 Revenue = 'public cc_detail'[annual_fees] + 'public cc_detail'[total_trans_amt] + 'public cc_detail'[interest_earned]
 
@@ -39,6 +38,4 @@ Previous_week_Reveneue = CALCULATE(
  ALL('public cc_detail'),
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1
 ))
-
-
 
