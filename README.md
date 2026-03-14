@@ -29,7 +29,7 @@ The dashboards allow stakeholders to track:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Tool | Purpose |
 |-----|------|
