@@ -5,7 +5,6 @@ This solution integrates multi-source financial datasets to deliver **real-time 
 
 The project analyzes **46M+ transactions** and **$57M in revenue**, helping stakeholders monitor financial performance, customer behavior, and credit portfolio trends.
 
----
 
 # Project Overview
 
@@ -27,7 +26,7 @@ The dashboards allow stakeholders to track:
 - Geographic spending patterns
 - Interest revenue generation
 
----
+
 
 #  Tech Stack
 
@@ -38,7 +37,7 @@ The dashboards allow stakeholders to track:
 | **DAX** | Advanced KPI calculations and analytics |
 | **Excel** | Data preprocessing and validation |
 
----
+
 
 
 
@@ -62,7 +61,7 @@ Provides insights into transaction behavior and financial performance.
 - **12.5% increase in transaction count**
 - **15.2% increase in transaction value**
 
----
+
 
 ## Customer Analytics Dashboard
 
@@ -84,7 +83,7 @@ Provides insights into customer demographics and financial behavior.
 - **93% of transactions from Blue & Silver card tiers**
 - **68% of revenue from TX, NY, and CA**
 
----
+
 
 # Key KPIs
 
@@ -96,7 +95,7 @@ Provides insights into customer demographics and financial behavior.
 | Revenue Growth | **28.8% WoW** |
 | Transaction Growth | **12.5%** |
 
----
+
 
 
 
@@ -109,7 +108,7 @@ Provides insights into customer demographics and financial behavior.
 - Credit portfolio performance tracking
 - Week-over-week performance analysis
 
----
+
 
 #  Business Impact
 
@@ -121,7 +120,7 @@ This BI solution enables organizations to:
 - Analyze **card product performance**
 - Support **data-driven financial decisions**
 
----
+
 
 # Future Improvements
 
@@ -131,5 +130,5 @@ This BI solution enables organizations to:
 - Customer lifetime value modeling
 - Machine learning based financial forecasting
 
----
+
 
